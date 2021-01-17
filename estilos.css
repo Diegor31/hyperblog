@@ -2,7 +2,11 @@ body
 {
     text-align: center;
     font-family: "Courier";
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
 }
 #cabecera
 {
